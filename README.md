@@ -2,7 +2,7 @@
 Coronavirus disease situation dashboard presents official daily counts of COVID-19 cases and deaths worldwide. 
 
 ![imgJumpingLucasApp](img/Covid-19Dash.png)
-<h3 align="center"><strong>Note 01</strong></h3>
+<h3 align="center"><strong>Covid19</strong></h3>
 > This dashboard is developed in Power BI with the COVID19 api
 
 > Access data on COVID19 through an easy API for free. Build dashboards, mobile apps or integrate in to other applications. Data is sourced from Johns Hopkins CSSE
